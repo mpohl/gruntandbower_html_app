@@ -1,4 +1,4 @@
-# Vale Html onfigurator
+# Vale Html Konfigurator
 ## Installation
 
 `npm install && bower install`
