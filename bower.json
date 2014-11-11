@@ -1,0 +1,12 @@
+{
+  "name": "Vale HTML Konfigurator",
+  "version": "0.0.0",
+  "dependencies": {
+    "json3": "~3.3.1",
+    "es5-shim": "~3.1.0",
+    "jquery": "~2.1.1",
+    "normalize.css": "~3.0.2"
+  },
+  "devDependencies": {},
+  "appPath": "app"
+}
